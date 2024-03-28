@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/mohamma87159878" target="blank"><img src="https://img.shields.io/twitter/follow/mohamma87159878?logo=twitter&style=for-the-badge" alt="mohamma87159878" /></a> </p>
 
-- 🌱 I’m currently learning **React, Java script , Bootstrap**
+- 🌱 I’m currently learning **Java script , Bootstrap , React**
 
 - 📫 How to reach me **shamsmohammad966@gmail.com**
 
