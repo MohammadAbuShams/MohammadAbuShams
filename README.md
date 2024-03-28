@@ -2,7 +2,6 @@
 <h3 align="center">I am a Computer System Engineering student at Birzeit University</h3>
 
 <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQj3UytXnbhI8BHRRiE_pV9gP8chxxfPJDYIPjcY9VAVQ&s">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammadabushams&label=Profile%20views&color=0e75b6&style=flat" alt="mohammadabushams" /> </p>
 
 <p align="left"> <a href="https://twitter.com/mohamma87159878" target="blank"><img src="https://img.shields.io/twitter/follow/mohamma87159878?logo=twitter&style=for-the-badge" alt="mohamma87159878" /></a> </p>
 
