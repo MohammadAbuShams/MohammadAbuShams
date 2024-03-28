@@ -1,13 +1,7 @@
 <h1 align="center">Hi 👋, I'm MohammadAbuShams</h1>
 <h3 align="center">Computer System Engineering student at Birzeit University</h3>
-<img align="right" alt="Coding" width="400" src="https://i.gifer.com/5eKX.gif">
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammadabushams&label=Profile%20views&color=0e75b6&style=flat" alt="mohammadabushams" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohammadabushams" alt="mohammadabushams" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/mohamma87159878" target="blank"><img src="https://img.shields.io/twitter/follow/mohamma87159878?logo=twitter&style=for-the-badge" alt="mohamma87159878" /></a> </p>
+<p align="left"> <a href="https://twitter.com/mohamma87159878" target="blank"><img src="https://miro.medium.com/v2/resize:fit:470/0*FTIo619TXcnz_XBv.png" alt="mohamma87159878" /></a> </p>
 
 - 🌱 I’m currently learning **React, Java script , Bootstrap**
 
