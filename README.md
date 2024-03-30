@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm MohammadAbuShams</h1>
 <h3 align="center">I am a Computer System Engineering student at Birzeit University</h3>
 
+<img align="right" alt="Coder GIF" height=250 width=350 src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" />
+
+
+
 <p align="left"> <a href="https://twitter.com/mohamma87159878" target="blank"><img src="https://img.shields.io/twitter/follow/mohamma87159878?logo=twitter&style=for-the-badge" alt="mohamma87159878" /></a> </p>
 
 - 🌱 I’m currently learning **Java script , Bootstrap , React**
