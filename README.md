@@ -23,7 +23,7 @@
 <a href="https://instagram.com/mohammad_abushams" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mohammad_abushams" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/mohammad abushams" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mohammad abushams" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@m7md_abushams" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@m7md_abushams" height="30" width="40" /></a>
-<a href="https://discord.gg/Mohammad AbuShams" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Mohammad AbuShams" height="30" width="40" /></a>
+
 </p>
 
 
