@@ -5,9 +5,6 @@
 
 
 
-
-<p align="left"> <a href="https://twitter.com/mohamma87159878" target="blank"><img src="https://img.shields.io/twitter/follow/mohamma87159878?logo=twitter&style=for-the-badge" alt="mohamma87159878" /></a> </p>
-
 - 🌱 I’m currently learning **Java script , Bootstrap , React**
 
 - 📫 How to reach me **shamsmohammad966@gmail.com**
@@ -17,11 +14,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/mohamma87159878" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mohamma87159878" height="30" width="40" /></a>
+
 <a href="https://linkedin.com/in/mohammad-n-abu-shams-979044269" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammad-n-abu-shams-979044269" height="30" width="40" /></a>
 <a href="https://www.facebook.com/profile.php?id=100007008790004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100007008790004" height="30" width="40" /></a>
 <a href="https://instagram.com/mohammad_abushams" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mohammad_abushams" height="30" width="40" /></a>
-
+<a href="https://twitter.com/mohamma87159878" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mohamma87159878" height="30" width="40" /></a>
 
 </p>
 
