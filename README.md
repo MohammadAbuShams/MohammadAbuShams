@@ -7,7 +7,7 @@
 
 
 
-- 🌱 I’m currently learning **Java script , Bootstrap , React**
+- 🌱 I’m currently learning **Bootstrap , React**
 
 - 📫 How to reach me **shamsmohammad966@gmail.com**
 
