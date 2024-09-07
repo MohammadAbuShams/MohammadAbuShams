@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm MohammadAbuShams</h1>
+<h1 align="center">Hi 👋, I'm Mohammad AbuShams</h1>
 <h3 align="center">I am a Computer System Engineering student at Birzeit University</h3>
 
 <img align="right" alt="Coder GIF" height=250 width=350 src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" />
