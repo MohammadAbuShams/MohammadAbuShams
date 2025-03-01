@@ -7,8 +7,6 @@
 
 
 
-- 🌱 I’m currently learning **React**
-
 - 📫 How to reach me **shamsmohammad966@gmail.com**
 
 
