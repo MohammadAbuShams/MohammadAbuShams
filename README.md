@@ -76,45 +76,6 @@
 </p>
 
 ---
-
-## 🚀 Featured Projects
-
-### 🔄 Workflow Creation and Sharing
-
-Full-stack web and mobile platform for creating, managing, and sharing multi-step institutional workflows.
-
-**Technologies:** Django • React • Supabase • Flutter • AI-powered features
-
-### 🧠 Magnetic Cave Game
-
-Adversarial two-player strategy game developed in Python using AI-based decision-making, game theory, and search strategies.
-
-**Technologies:** Python • Artificial Intelligence • Game Theory
-
-### 🃏 Memory Cards Game
-
-Responsive React memory card game featuring animations, scoring, move tracking, and persistent best scores.
-
-**Technologies:** React.js • JavaScript • Local Storage
-
-### ☕ Coffee Shop Management System
-
-Database management system designed to digitize customer orders, inventory management, and customer feedback.
-
-**Technologies:** Java • MySQL
-
----
-
-## 📚 Education
-
-🎓 **M.Sc. in Applied Statistics and Data Science**
-Birzeit University — *Current*
-
-🎓 **B.Sc. in Computer Engineering**
-Birzeit University
-
----
-
 <p align="center">
   <i>Combining engineering, software, and data to build practical solutions.</i>
 </p>
