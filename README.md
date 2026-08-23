@@ -1,20 +1,20 @@
-<h1 align="center">Hi 👋, I'm Mohammad AbuShams</h1>
+<h1 align="center">Hi 👋, I'm Mohammad Abu Shams</h1>
 
-<h3 align="center">Computer Engineer | Data Analyst | Software Developer</h3>
+<h3 align="center">Computer Engineering Graduate | M.Sc. Student in Applied Statistics & Data Science</h3>
 
 <p align="center">
-  Turning data, software, and engineering ideas into practical solutions.
+  Passionate about Software Development, Data Analytics, Artificial Intelligence, and building practical solutions.
 </p>
 
 <img align="right" alt="Coder GIF" height="250" width="350" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" />
 
 ### 👨‍💻 About Me
 
-* 🎓 Computer Engineering graduate from **Birzeit University**
-* 📊 Interested in **Data Analytics, Business Intelligence & Data Visualization**
-* 💻 Building **web applications and internal business systems**
-* ⚡ Exploring **EV Charging Systems & OCPP**
-* 🗄️ Experienced with **SQL, databases and data modeling**
+* 🎓 B.Sc. in **Computer Engineering** from Birzeit University
+* 📊 Currently pursuing an **M.Sc. in Applied Statistics and Data Science**
+* 💻 Experienced in **Web Development, Database Management & Data Analysis**
+* 🤖 Interested in **Artificial Intelligence and Data-Driven Solutions**
+* 📈 Working with **Python, SQL, Power BI, Tableau, SPSS & Excel**
 * 📫 Reach me at **[shamsmohammad966@gmail.com](mailto:shamsmohammad966@gmail.com)**
 
 <br>
@@ -39,55 +39,82 @@
 
 ## 🛠️ Languages and Tools
 
-### Programming & Web
+### Programming Languages
 
 <p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+</p>
+
+### Web Development
+
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40"/>
 </p>
 
 ### Data & Analytics
 
-<p align="left">
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="r" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-
-<strong> Power BI • Excel • Tableau • SPSS • JASP • SQL</strong>
-
+<p>
+  <b>Python • R • SQL • Excel • Power BI • Tableau • SPSS • JASP</b>
 </p>
 
-### Development Tools
+### Tools & Technologies
 
 <p align="left">
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
-<img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="40" height="40"/>
 </p>
 
 ---
 
-## 🚀 What I'm Working On
+## 🚀 Featured Projects
 
-* ⚡ EV charging & **OCPP-based systems**
-* 📊 **Business Intelligence and Power BI** solutions
-* 📦 Data-driven **inventory and business analytics**
-* 💻 Full-stack and internal **business applications**
-* 🤖 Process automation and data integration
+### 🔄 Workflow Creation and Sharing
+
+Full-stack web and mobile platform for creating, managing, and sharing multi-step institutional workflows.
+
+**Technologies:** Django • React • Supabase • Flutter • AI-powered features
+
+### 🧠 Magnetic Cave Game
+
+Adversarial two-player strategy game developed in Python using AI-based decision-making, game theory, and search strategies.
+
+**Technologies:** Python • Artificial Intelligence • Game Theory
+
+### 🃏 Memory Cards Game
+
+Responsive React memory card game featuring animations, scoring, move tracking, and persistent best scores.
+
+**Technologies:** React.js • JavaScript • Local Storage
+
+### ☕ Coffee Shop Management System
+
+Database management system designed to digitize customer orders, inventory management, and customer feedback.
+
+**Technologies:** Java • MySQL
+
+---
+
+## 📚 Education
+
+🎓 **M.Sc. in Applied Statistics and Data Science**
+Birzeit University — *Current*
+
+🎓 **B.Sc. in Computer Engineering**
+Birzeit University
 
 ---
 
 <p align="center">
-  <b>Engineering • Data • Software • Automation</b>
+  <i>Combining engineering, software, and data to build practical solutions.</i>
 </p>
