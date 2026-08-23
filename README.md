@@ -3,7 +3,7 @@
 <h3 align="center">Computer Engineering Graduate | M.Sc. Student in Applied Statistics & Data Science</h3>
 
 <p align="center">
-  Passionate about Software Development, Data Analytics, Artificial Intelligence, and building practical solutions.
+  Passionate about Frontend Development, Data Analytics, and building practical solutions.
 </p>
 
 <img align="right" alt="Coder GIF" height="250" width="350" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" />
@@ -12,8 +12,7 @@
 
 * 🎓 B.Sc. in **Computer Engineering** from Birzeit University
 * 📊 Currently pursuing an **M.Sc. in Applied Statistics and Data Science**
-* 💻 Experienced in **Web Development, Database Management & Data Analysis**
-* 🤖 Interested in **Artificial Intelligence and Data-Driven Solutions**
+* 💻 Experienced in **Frontend Development, Database Management & Data Analysis**
 * 📈 Working with **Python, SQL, Power BI, Tableau, SPSS & Excel**
 * 📫 Reach me at **[shamsmohammad966@gmail.com](mailto:shamsmohammad966@gmail.com)**
 
@@ -50,7 +49,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
 </p>
 
-### Web Development
+### Frontend Development
 
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/>
@@ -76,6 +75,7 @@
 </p>
 
 ---
+
 <p align="center">
-  <i>Combining engineering, software, and data to build practical solutions.</i>
+  <i>Combining engineering, frontend development, and data to build practical solutions.</i>
 </p>
