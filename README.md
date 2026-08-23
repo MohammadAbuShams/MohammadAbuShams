@@ -68,13 +68,14 @@
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" title="Python" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R" title="R" width="40" height="40"/>
-<img src="https://cdn.simpleicons.org/mysql" alt="SQL" title="SQL" width="40" height="40"/>
-<img src="https://cdn.simpleicons.org/microsoftexcel" alt="Excel" title="Excel" width="40" height="40"/>
-<img src="https://cdn.simpleicons.org/powerbi" alt="Power BI" title="Power BI" width="40" height="40"/>
-<img src="https://cdn.simpleicons.org/tableau" alt="Tableau" title="Tableau" width="40" height="40"/>
-<img src="https://cdn.simpleicons.org/ibm" alt="SPSS" title="SPSS" width="40" height="40"/>
-<img src="https://cdn.simpleicons.org/rstudioide" alt="JASP" title="JASP" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="SQL" title="SQL" width="40" height="40"/>
 </p>
+
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![SPSS](https://img.shields.io/badge/SPSS-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
+![JASP](https://img.shields.io/badge/JASP-Data%20Analysis-blue?style=for-the-badge)
 
 ### Tools & Technologies
 
