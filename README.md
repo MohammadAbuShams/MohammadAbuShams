@@ -17,7 +17,7 @@
 <a href="https://linkedin.com/in/mohammad-n-abu-shams-979044269" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammad-n-abu-shams-979044269" height="30" width="40" /></a>
 <a href="https://www.facebook.com/profile.php?id=61579046614192" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100007008790004" height="30" width="40" /></a>
 <a href="https://instagram.com/mohammad_naim_sh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mohammad_abushams" height="30" width="40" /></a>
-<a href="https://twitter.com/mohamma87159878" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mohamma87159878" height="30" width="40" /></a>
+
 
 </p>
 
