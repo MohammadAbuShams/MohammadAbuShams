@@ -12,7 +12,7 @@
 
 * 🎓 B.Sc. in **Computer Engineering** from Birzeit University
 * 📊 Currently pursuing an **M.Sc. in Applied Statistics and Data Science**
-* 💻 Experienced in **Frontend Development, Database Management & Data Analysis**
+* 💻 Experienced in **Frontend Development, Data Analysis & Database Management**
 * 📈 Working with **Python, SQL, Power BI, Tableau, SPSS & Excel**
 * 📫 Reach me at **[shamsmohammad966@gmail.com](mailto:shamsmohammad966@gmail.com)**
 
