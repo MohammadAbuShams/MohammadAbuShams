@@ -66,7 +66,7 @@
 ### Data & Analytics
 
 <p>
-  <b>Python • R • SQL • Excel • Power BI • Tableau • SPSS • JASP</b>
+  <b>Python • R • SQL • Excel • Power BI • Tableau • SPSS • JASP • Stata</b>
 </p>
 
 ### Tools & Technologies
